@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "role": " Web Developer",
+    "organisation": "Azure Skynet Solutions pvt. Ltd",
+    "startDate": " Jun, 2023",
+    "endDate": "Jul, 2023",
+    "location": "Gurugram India",
+    "experiences": [
+     " Assist in the development and maintenance of website features and web applications.",
+"Collaborate with designers to implement responsive and visually appealing web pages.",
+"Optimize web pages for maximum speed and scalability.",
+"Write clean, efficient, and well-documented code."
+
+    ],
+    "imageSrc": "company/azure.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Trainee Web Developer",
+    "organisation": "Platform Tech Solutions",
+    "startDate": "Jan, 2022",
+    "endDate": "Aug, 2023",
+    "location": "India",
+    "experiences": [
+      "Acquired skills in HTML, CSS, and JavaScript to create interactive and responsive web pages.",
+"Learned to use frameworks like React.js and Angular for building dynamic web applications."
+
+    ],
+    "imageSrc": "company/platform-Tech-Solution.jpeg"
+  }
+]
